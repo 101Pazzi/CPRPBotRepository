@@ -19,5 +19,8 @@
   "homepage": "https://github.com/101Pazzi/CPRPBotRepository#readme",
   "devDependencies": {
     "nodemon": "^2.0.16"
+  },
+  "dependencies": {
+    "tmi.js": "^1.8.5"
   }
 }
