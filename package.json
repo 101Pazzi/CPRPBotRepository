@@ -1,0 +1,23 @@
+{
+  "name": "cprpbot",
+  "version": "1.0.0",
+  "description": "A twitch bot to help manage chatter loyalty rewards",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index",
+    "dev": "nodemon index"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/101Pazzi/CPRPBotRepository.git"
+  },
+  "author": "101Pazzi",
+  "license": "AGPL-3.0-or-later",
+  "bugs": {
+    "url": "https://github.com/101Pazzi/CPRPBotRepository/issues"
+  },
+  "homepage": "https://github.com/101Pazzi/CPRPBotRepository#readme",
+  "devDependencies": {
+    "nodemon": "^2.0.16"
+  }
+}
